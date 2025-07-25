@@ -73,11 +73,20 @@ Each document provides step-by-step instructions on installing, configuring, and
 
 ---
 
+ ## 📝 Clone this repository:
+   ```bash
+   git clone https://github.com/CodeLife01/SOC-Analyst-Lab-Setup.git
+   cd SOC-Analyst-Lab-Setup
+   ```
+   
+---
+
 ## 📜 License
 
 This project is open-source and intended for **educational and non-commercial use only**.
 
 ---
+
 
 ## 🙋‍♂️ Author
 
